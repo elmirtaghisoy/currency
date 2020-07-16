@@ -23,7 +23,7 @@ import org.springframework.web.client.RestTemplate;
  */
 public class MainFrame extends javax.swing.JFrame {
 
-    private static final String BASE_URL = "https://www.amdoren.com/api/currency.php?api_key=ypkgj6vjTLTrceQEKFKeTUfvF9WvAa";
+    private static final String BASE_URL = "https://www.amdoren.com/api/currency.php?api_key=4LpNaQRp8Gi5G7nahR3x4gjwCVUrYF";
 
     public MainFrame() {
         initComponents();
